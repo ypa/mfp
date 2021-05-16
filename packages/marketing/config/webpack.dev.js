@@ -17,4 +17,4 @@ const devConfig = {
   ],
 };
 
-modules.exports = merge(commonConfig, devConfig);
+module.exports = merge(commonConfig, devConfig);
